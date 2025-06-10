@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page d acceille</title>
+</head>
+<body>
+    <p>bibliotheque en ligne</p>
+<table>
+<tr>
+    <a href="connexion.html" style="text-decoration: none;" class="btn">se connecter</a>
+</tr>
+<tr>
+    <a href="fichier.html" style="text-decoration: none;" class="btn">&nbsp;&nbsp;&nbsp;&nbsp;s'inscrire</a>
+</tr>
+<tr>
+    <a href="voirtout.php" style="text-decoration: none;" class="btn">&nbsp;&nbsp;&nbsp;&nbsp;voir tous les livres</a>
+</tr>
+</table>
+</body>
+</html>                                                                                 
